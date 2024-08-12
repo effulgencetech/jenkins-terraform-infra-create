@@ -6,7 +6,7 @@ vpc_name = "prod-vpc"
 
 # Variables for S3 module
 
-bucket_name = "effulgence-prod-bucket-01-miky"
+bucket_name = "effulgence-prod-bucket-FFredd24"
 
 # Variables for EC2 Module
 
@@ -16,4 +16,4 @@ instance_type = "t2.micro"
 
 ec2_name = "prod-instance"
 
-webhook_bucket = "effulgencetech_webhook_bucket_mike"
+webhook_bucket = "effulgencetech_webhook_bucket_FFredd24"
